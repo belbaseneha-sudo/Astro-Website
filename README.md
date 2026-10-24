@@ -20,11 +20,11 @@ Screenshots of the original website will be added below. The source code is no l
 
 ## Website Screenshots
 
-### Desktop View
+These screenshots show the original desktop and mobile layouts of Astro, an earlier personal website project.
 
-<img src="desktop view.jpeg" width="650" alt="Astro desktop website" />
+### Desktop View
+[View the full desktop screenshot](desktop%20view.jpeg)
 
 ### Mobile View
-
-<img src="mobile view.jpeg" width="280" alt="Astro mobile website" />
+[View the mobile screenshot](mobile%20view.jpeg)
 
