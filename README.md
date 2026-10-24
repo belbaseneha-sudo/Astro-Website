@@ -18,3 +18,13 @@ The website features a dark, space-inspired design, zodiac-themed content, inter
 ## Screenshots
 Screenshots of the original website will be added below. The source code is no longer available, as this is an earlier personal project.
 
+## Website Screenshots
+
+### Desktop View
+
+<img src="desktop view.jpeg" width="650" alt="Astro desktop website" />
+
+### Mobile View
+
+<img src="mobile view.jpeg" width="280" alt="Astro mobile website" />
+
